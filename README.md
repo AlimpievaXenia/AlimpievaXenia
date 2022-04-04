@@ -11,8 +11,6 @@
 Базы данных: PostgreSQL, Sequelize ORM<br>
 A также: Jest, REST.
 
-
-<!-- Pinned Repositories -- >
 <a href="https://github.com/AlimpievaXenia/Yoga">
   <img align="center" style="margin:1rem 0.5rem" src="https://www.google.com/search?q=yoga&sxsrf=APq-WBsqnxa7TsFJwh16mknhwKTENR1XKg:1649081367466&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjC5PPoyvr2AhW9AhAIHcxMA-sQ_AUoAnoECAEQBA&biw=1879&bih=1198&dpr=1#imgrc=OQxE65Rrf9qXVM" />
 </a>
